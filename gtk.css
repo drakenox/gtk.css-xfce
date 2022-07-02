@@ -1,0 +1,38 @@
+
+1	.xfce4-panel button,
+2	.genmon_plugin,
+3	#docklike-plugin .group {
+4	    transition: 0.2s;
+5	    border-radius: 3;
+6	    margin: 5;
+7	    box-shadow: none;
+8	    background-color: rgba(255,255,255,0.04);
+9	}
+10	
+11	.xfce4-panel.background .tasklist button {
+12	    font-size: 12px;
+13	}
+14	
+15	.xfce4-panel.background button:active, 
+16	.xfce4-panel.background button:hover, 
+17	.xfce4-panel.background button:active:hover, 
+18	.xfce4-panel.background .tasklist button:active,
+19	.xfce4-panel.background .tasklist button:hover, 
+20	.xfce4-panel.background .tasklist button:active:hover,
+21	#docklike-plugin .hover_group {
+22	    background-color: rgba(255,255,255,0.07);
+23	}
+24	
+25	.xfce4-panel button:checked {
+26	    background-color: rgba(255,255,255,0.1);
+27	}
+28	
+29	.genmon_plugin {
+30	    padding: 5px;
+31	}
+32	.genmon_plugin image {
+33	    margin-left: 5px;
+34	}
+35	.genmon_plugin label {
+36	    padding: 5px;
+37	}
