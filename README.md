@@ -5,4 +5,4 @@ And restart the xfce4-panel with `xfce4-panel -r`
 
 # Preview
 
-<img src="./assets/hi.png">
+<img src="./assets/bar.png">
