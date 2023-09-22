@@ -5,7 +5,7 @@
 	    transition: 0.2s;
 	    border-radius: 3;
 	    margin: 5;
-	    background-color: rgba(255,255,255,0.04);
+	    background: rgba(255,255,255,0.04);
 	}
 	
 	.xfce4-panel.background .tasklist button {
@@ -23,7 +23,7 @@
 	}
 	
 	.xfce4-panel button:checked {
-	    background-color: rgba(255,255,255,0.1);
+	    background: rgba(255,255,255,0.1);
 	}
 	
  	.genmon_plugin {
